@@ -1,0 +1,16 @@
+.logoutbtn {
+  cursor: pointer;
+}
+i {
+  cursor: pointer;
+}
+nav a 
+ {
+  text-decoration: none !important;
+  color: white !important;
+ }
+nav a:hover {
+  transition: .2s;
+  transform: scale(1.1);
+  color: rgb(130, 25, 228) !important;
+} 
