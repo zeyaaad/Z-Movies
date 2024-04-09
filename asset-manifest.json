@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Z-Movies/static/css/main.940243df.css",
+    "main.js": "/Z-Movies/static/js/main.fabd3d43.js",
+    "index.html": "/Z-Movies/index.html",
+    "main.940243df.css.map": "/Z-Movies/static/css/main.940243df.css.map",
+    "main.fabd3d43.js.map": "/Z-Movies/static/js/main.fabd3d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940243df.css",
+    "static/js/main.fabd3d43.js"
+  ]
+}
